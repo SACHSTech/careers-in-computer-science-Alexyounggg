@@ -36,5 +36,52 @@ The mimimum requirement for a software developer is to have a bachelors in softw
 
 
 
+## Standard Education
+
+#### University
+
+One such university that offers a program that gives you good exposure to software engineering is the [University of Waterloo](https://uwaterloo.ca/)
+
+#### Program
+
+One of the programs that they offer is their prestigous computer science program. For Ontario students, the prerequisites for getting into the program are six Grade 12 U and/or M courses including: 
+
+- Advanced Functions
+- Calculus and Vectors
+- Any Grade 12 U English
+- One other 4U course
+
+#### First Year Courses
+
+Semester One:
+- CS 135 – Designing Functional Programs
+- MATH 135 – Algebra for Honours Mathematics
+- MATH 137 – Calculus 1 for Honours Mathematics
+- One communication skills course
+- One elective
+
+Semester Two: 
+- CS 136 – Elementary Algorithm Design and Data Abstraction
+- CS 136L – Tools and Techniques for Software Development
+- MATH 136 – Linear Algebra 1 for Honours Mathematics
+- MATH 138 – Calculus 2 for Honours Mathematics
+- Two electives
+
+#### Upper Year Courses
+
+- CS 341 – Algorithms
+- CS 449 – Human-Computer Interaction or CS 458 – Computer Security and Privacy
+- CS 492 – The Social Implications of Computing
+- CS 486 – Introduction to Artificial Intelligence
+
+
+#### Time to Complete Diploma 
+
+It will take roughly 4-5 years to complete the bachelors of computer science at Waterloo.
+
+
+
+
+
 
 
