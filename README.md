@@ -13,16 +13,16 @@ A software developer uses a variety of tools such as source debuggers and visual
 The mimimum requirement for a software developer is to have a bachelors in software development, computer programming, information technology or computer science. Many companies will also want personal experience in the field as well.
 
 #### Techanical Skills 
--Programming language
--data structure and algorithms,
--IDE’s, databases 
--text editors 
+- Programming language
+- Data structure and algorithms,
+- IDE’s, databases 
+- Text editors 
 
 
 #### Non-Techanical Skills 
--Problem-solving skills
--communication
--accountability time management 
+- Problem-solving skills
+- Communication
+- Accountability time management 
 
 #### Salary
 
