@@ -79,6 +79,18 @@ Semester Two:
 
 It will take roughly 4-5 years to complete the bachelors of computer science at Waterloo.
 
+## Experiential Learning 
+
+#### Coding Competitions 
+
+One way you can get more experience in the field of software development is by entering coding competitions. One important thing these competitions allow you to do is to try a variety of different coding questions. These will help you improve and get better. You can also try to get to know other people who also want to code as well, helping with non technical skills such as collaboration and communication skills. 
+
+FreeCodeCamp is one of the online competitions that one can join
+
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.crunchbase.com%2Forganization%2Ffree-code-camp&psig=AOvVaw1dEOLJqueuAV6VyQm4O-UV&ust=1665006827174000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMj4ovvHx_oCFQAAAAAdAAAAABAD)
+
+#### Co-Op Programs
+University of Waterloo also offers co-op programs in the field of computer science. 
 
 
 
