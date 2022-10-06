@@ -92,6 +92,31 @@ FreeCodeCamp is one of the online competitions that one can join
 #### Co-Op Programs
 University of Waterloo also offers co-op programs in the field of computer science. 
 
+## Real Jobs
+
+#### Entry Level Software Developer
+
+Salary: $40,000 - $50,000
+
+Job Description: The job offers its employees a chance to work in a technological progressive company that is committed to their employees. It also gives you the experience of working in a ever-evolving and logisitcs indsutry which will help you grow your career. Finally, it offers you the oppurtunity to set up the framework of the company for its technological evolution. 
+
+City: You can work in Oakville or remotely at home
+
+#### Mid Level Software Developer 
+
+Salary:  $62,400 - $93,600 
+
+Job Description: This job will require the employees to use Java to developer software. 
+
+City: No particular city but requires you to work in the U.S
+
+#### Senior Level Software Developer 
+
+Salary: $100,000-$200,000
+
+Job Description: 
+
+City: Remote job 
 
 
 
