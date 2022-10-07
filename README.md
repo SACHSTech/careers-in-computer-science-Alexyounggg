@@ -102,21 +102,38 @@ Job Description: The job offers its employees a chance to work in a technologica
 
 City: You can work in Oakville or remotely at home
 
+[More Information About the Job Posting](https://ca.indeed.com/jobs?q=Entry+Level+Software+Developer&redirected=1&vjk=7bd7326982b7892c)
+
 #### Mid Level Software Developer 
 
 Salary:  $62,400 - $93,600 
 
-Job Description: This job will require the employees to use Java to developer software. 
+Job Description: This job will require the employees to use Java to developer software. There will be different responsibilities when it comes to this job such as 
+
+- unit testing during the QA phase
+- Providing environment support while the project moves through during development, integration, acceptance and production environments
+-  Being punctual in regards to deadlines while delivering good quality work
+-  Being able to handle multiple tasks 
+-  Run system analysis of user stories 
 
 City: No particular city but requires you to work in the U.S
+
+[More Information About the Job Posting](https://www.indeed.com/jobs?q=Mid+Level+Software+Developer&redirected=1&vjk=be9dcc6d3e7feea9) 
 
 #### Senior Level Software Developer 
 
 Salary: $100,000-$200,000
 
-Job Description: 
+Job Description: Synapetic Health are trying to develop business-critical user-facing systems and features and are looking for software engineers to help design, create, test and productionize it. 
+
+Synapetic Health are looking for employees who will be:
+- Versatile and Independent Thinkers
+- Goal Oriented
+- Effective Communicator 
 
 City: Remote job 
+
+[More Information About the Job Posting](https://www.indeed.com/jobs?q=senior+level+software+developer&l=&vjk=d7dbc4becb6f5b9c) 
 
 
 
