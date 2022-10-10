@@ -87,11 +87,8 @@ One way you can get more experience in the field of software development is by e
 
 FreeCodeCamp is one of the online competitions that one can join
 
-![alt text](https://github.com/SACHSTech/careers-in-computer-science-Alexyounggg/blob/main/freecodecamp.jpg "Logo Title 1")
-
 <img src="https://github.com/SACHSTech/careers-in-computer-science-Alexyounggg/blob/main/freecodecamp.jpg" width="100" height="100">
 
-<img src="https://github.com/SACHSTech/careers-in-computer-science-Alexyounggg/blob/main/freecodecamp.jpg" width="300" height="300">
 
 #### Co-Op Programs
 University of Waterloo also offers co-op programs in the field of computer science. 
@@ -100,7 +97,7 @@ Below is an example of the possible different co-op programs that you can take f
 
 <img src="https://github.com/SACHSTech/careers-in-computer-science-Alexyounggg/blob/main/Waterloo%20Co-Op.png" width="300" height="300">
 
-This image was taken from Waterloo's website. More information can be found by clicking [here] (https://cs.uwaterloo.ca/future-undergraduate-students/co-op-and-regular)
+This image was taken from Waterloo's website. More information can be found by clicking [here](https://cs.uwaterloo.ca/future-undergraduate-students/co-op-and-regular)
 
 ## Real Jobs
 
