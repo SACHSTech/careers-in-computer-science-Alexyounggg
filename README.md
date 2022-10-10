@@ -96,7 +96,11 @@ FreeCodeCamp is one of the online competitions that one can join
 #### Co-Op Programs
 University of Waterloo also offers co-op programs in the field of computer science. 
 
+Below is an example of the possible different co-op programs that you can take from Waterloo.
 
+<img src="https://github.com/SACHSTech/careers-in-computer-science-Alexyounggg/blob/main/Waterloo%20Co-Op.png" width="300" height="300">
+
+This image was taken from Waterloo's website. More information can be found by clicking [here] (https://cs.uwaterloo.ca/future-undergraduate-students/co-op-and-regular)
 
 ## Real Jobs
 
@@ -140,6 +144,30 @@ Synapetic Health are looking for employees who will be:
 City: Remote job 
 
 [More Information About the Job Posting](https://www.indeed.com/jobs?q=senior+level+software+developer&l=&vjk=d7dbc4becb6f5b9c) 
+
+
+## Work Cited 
+
+“Application Software Developer Career Overview.” Code a New Career | ComputerScience.org, 9 Sept. 2022, https://www.computerscience.org/careers/software-                 developer/#:~:text=Software%20developers%20conceive%20of%2C%20design,new%20software%2C%20and%20make%20improvements. 
+
+“Computer Science.” Undergraduate Programs, 20 July 2022, https://uwaterloo.ca/future-students/courses/computer-science. 
+
+“Co-Op and Regular.” Cheriton School of Computer Science, 11 Aug. 2020, https://cs.uwaterloo.ca/future-undergraduate-students/co-op-and-regular. 
+
+Entry Level Jobs (with Salaries) 2022 | Indeed.com Canada. https://ca.indeed.com/Entry-Level-jobs. 
+
+“FreeCodeCamp.org.” Freecodecamp.org, https://www.freecodecamp.org/. 
+
+Mid Level Software Developer Jobs, Employment | Indeed.com. https://www.indeed.com/q-Mid-Level-Software-Developer-jobs.html. 
+
+S, Lekshmi. “10 Vital Non-Technical Skills a Software Developer Should Have.” Neoito Blog, Neoito Blog, 8 July 2022, https://www.neoito.com/blog/non-technical-skills-    of-developers/. 
+
+“Salary: Software Developer (October, 2022) | Glassdoor.” Software Developers Salaries in Canada, https://www.glassdoor.ca/Salaries/software-developer-salary              -SRCH_KO0,18.htm. 
+
+Synaptec Health Careers and Employment | Indeed.com. https://www.indeed.com/cmp/Synaptec-Health. 
+
+Weedmark, David. “How to Gain Programming Experience.” Work, 13 July 2021, https://work.chron.com/gain-programming-experience-20001.html. 
+
 
 
 
