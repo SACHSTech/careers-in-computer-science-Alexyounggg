@@ -40,7 +40,8 @@ The mimimum requirement for a software developer is to have a bachelors in softw
 
 #### University
 
-One such university that offers a program that gives you good exposure to software engineering is the [University of Waterloo](https://uwaterloo.ca/)
+One such university that offers a program that gives you good exposure to software engineering is the [University of Waterloo](https://uwaterloo.ca/) 
+<img src="[https://github.com/SACHSTech/careers-in-computer-science-Alexyounggg/blob/main/freecodecamp.jpg](https://github.com/SACHSTech/careers-in-computer-science-Alexyounggg/blob/main/university-of-waterloo-vertical-logo-300x195.png)" width="300" height="200">
 
 #### Program
 
@@ -105,7 +106,7 @@ This image was taken from Waterloo's website. More information can be found by c
 
 Salary: $40,000 - $50,000
 
-Job Description: The job offers its employees a chance to work in a technological progressive company that is committed to their employees. It also gives you the experience of working in a ever-evolving and logisitcs indsutry which will help you grow your career. Finally, it offers you the oppurtunity to set up the framework of the company for its technological evolution. 
+Job Description: The job offers its employees a chance to work in a technological progressive company that is committed to their employees. It also gives you the experience of working in a ever-evolving and logistics indsutry which will help you grow your career. Finally, it offers you the opportunity to set up the framework of the company for its technological evolution. 
 
 City: You can work in Oakville or remotely at home
 
