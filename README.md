@@ -89,12 +89,14 @@ FreeCodeCamp is one of the online competitions that one can join
 
 ![alt text](https://github.com/SACHSTech/careers-in-computer-science-Alexyounggg/blob/main/freecodecamp.jpg "Logo Title 1")
 
-<img src="(https://github.com/SACHSTech/careers-in-computer-science-Alexyounggg/blob/main/freecodecamp.jpg)" width="100" height="100">
+<img src="https://github.com/SACHSTech/careers-in-computer-science-Alexyounggg/blob/main/freecodecamp.jpg" width="100" height="100">
 
-<img src="(https://github.com/SACHSTech/careers-in-computer-science-Alexyounggg/blob/main/freecodecamp.jpg)" width="300" height="300">
+<img src="https://github.com/SACHSTech/careers-in-computer-science-Alexyounggg/blob/main/freecodecamp.jpg" width="300" height="300">
 
 #### Co-Op Programs
 University of Waterloo also offers co-op programs in the field of computer science. 
+
+
 
 ## Real Jobs
 
