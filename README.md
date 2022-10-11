@@ -54,6 +54,8 @@ One of the programs that they offer is their prestigous computer science program
 - Any Grade 12 U English
 - One other 4U course
 
+The admission average of the previous year was listed at around low to mid 90's. This means to get in the program, you will need slightly higher to have a better chance. In addition to that, experience with coding and computer science will also give you a better chance of getting in. 
+
 #### First Year Courses
 
 Semester One:
@@ -80,7 +82,7 @@ Semester Two:
 
 #### Time to Complete Diploma 
 
-It will take roughly 4-5 years to complete the bachelors of computer science at Waterloo.
+It will take roughly 4 years to complete the Bachelors of Computer Science at Waterloo.
 
 ## Experiential Learning 
 
