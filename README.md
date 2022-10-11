@@ -41,7 +41,9 @@ The mimimum requirement for a software developer is to have a bachelors in softw
 #### University
 
 One such university that offers a program that gives you good exposure to software engineering is the [University of Waterloo](https://uwaterloo.ca/) 
-<img src="https://github.com/SACHSTech/careers-in-computer-science-Alexyounggg/blob/main/university-of-waterloo-vertical-logo-300x195.png" width="300" height="150">
+
+
+<img src="https://github.com/SACHSTech/careers-in-computer-science-Alexyounggg/blob/main/university-of-waterloo-vertical-logo-300x195.png" width="300" height="170">
 
 #### Program
 
